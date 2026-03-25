@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"..\\\\lib\\\\contentful.js -> contentful\":{\"id\":\"..\\\\lib\\\\contentful.js -> contentful\",\"files\":[\"static/chunks/node_modules_contentful_dist_esm_index_js.js\"]}}"
